@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShahryarHaji
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain and Hyperledger
+- 🌱 I’m currently working JS
+- 📫 ou can also send me email to shahryar.haji1374 [at] gamil.com;
 
 <!---
 ShahryarHaji/ShahryarHaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
